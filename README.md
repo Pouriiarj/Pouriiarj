@@ -2,6 +2,9 @@
 I'm a B.Sc. student in Computer Science<br>✨
 I'm a continuously learning and expanding my skill set.<br>📚  
 
+## 🌐 Connect with Me:
+
+
 <table align="right" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
@@ -10,7 +13,6 @@ I'm a continuously learning and expanding my skill set.<br>📚
   </tr>
 </table>
 
-## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouria.arjmandi04@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pourii_arj)
   
@@ -30,5 +32,5 @@ I'm a continuously learning and expanding my skill set.<br>📚
 ---
 <br />
 <div align="center">
-  <img src="آhttps://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybnc0dW5rdXM2b25rdGx5eG9mbWRrOXF6aW11YmIyc3VpeHIwZjFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/source.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybnc0dW5rdXM2b25rdGx5eG9mbWRrOXF6aW11YmIyc3VpeHIwZjFibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRGoqbUQvk8nwTC/source.gif" width="100%" />
 </div>
