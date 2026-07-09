@@ -3,7 +3,10 @@ I'm a B.Sc. student in Computer Science<br>✨
 I'm a continuously learning and expanding my skill set.<br>📚  
 
 ## 🌐 Connect with Me:
-
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouria.arjmandi04@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pourii_arj)
+  
+## 💻 Tech Stack:
 
 <table align="right" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -13,10 +16,7 @@ I'm a continuously learning and expanding my skill set.<br>📚
   </tr>
 </table>
 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouria.arjmandi04@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pourii_arj)
-  
-## 💻 Tech Stack:
+
 ### 🔧 **Programming Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
