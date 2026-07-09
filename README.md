@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a B.Sc. student in Computer Science<br>✨
-I'm a continuously learning and expanding my skill set.<br>📚  
+✨ I'm a B.Sc. student in Computer Science<br>
+📚 I'm continuously learning and expanding my skill set.
+
 
 ## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pouria.arjmandi04@gmail.com) 
